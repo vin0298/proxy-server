@@ -9,7 +9,11 @@
   "author": "Vincent Surya Bensawan",
   "license": "ISC",
   "dependencies": {
+    "absolutify": "^0.1.0",
+    "async": "^3.1.0",
+    "express": "^4.17.1",
     "http": "0.0.0",
+    "net": "^1.0.2",
     "request": "^2.88.0",
     "url": "^0.11.0"
   }
